@@ -1,0 +1,2 @@
+pip install should-dsl
+# maybe you need to run it as sudo
